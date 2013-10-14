@@ -1,4 +1,3 @@
-Physics I
 # Physics I - VPython projects
 
 ## Asteroid impact on Earth
