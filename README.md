@@ -8,13 +8,13 @@ After the collision, and to simulate an apocalyptic event, several other asteroi
 [![Asteroid impact on Earth](https://raw.github.com/carlosmccosta/MIEIC1-2S-FISI1/master/Screenshots/Asteroid%20impact.PNG)](http://www.youtube.com/watch?v=Ur4as9y9QlY)
 
 
-### Frontal impact of an asteroid on Earth
+## Frontal impact of an asteroid on Earth
 Simulation of a direct impact of an asteroid on Earth.
 
 [![Frontal impact of an asteroid on Earth](https://raw.github.com/carlosmccosta/MIEIC1-2S-FISI1/master/Screenshots/Frontal%20impact%20of%20an%20asteroid.PNG)](http://www.youtube.com/watch?v=jVo9ddIVp8U)
 
 
-### Inelastic collision
+## Inelastic collision
 Simulation of an inelastic collision.
 
 [![Inelastic collision](https://raw.github.com/carlosmccosta/MIEIC1-2S-FISI1/master/Screenshots/Inelastic%20collision.PNG)](http://www.youtube.com/watch?v=71A4EdqVrEw)
